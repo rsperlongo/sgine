@@ -5,36 +5,11 @@ Version: MDB Free 4.4.0 Beta
 Documentation:
 http://mdbootstrap.com/
 
-Getting started:
-http://mdbootstrap.com/getting-started/
+Sngine new layout using framework MDBootstrap, changing old layout based in URL
 
-FAQ
-http://mdbootstrap.com/faq/
+http://vdapplications.com/Sngine/Script/
 
-Support:
-http://mdbootstrap.com/forums/forum/support/
-
-Tutorials:
-MDB-Bootstrap: http://mdbootstrap.com/bootstrap-tutorial/
-MDB-Wordpress: http://mdbootstrap.com/wordpress-tutorial/
-
-ChangeLog
-https://mdbootstrap.com/changelog/
-
-Templates:
-http://mdbootstrap.com/templates/
-
-Freebies
-https://mdbootstrap.com/freebies/
-
-License:
-http://mdbootstrap.com/license/
-
-Facebook: https://facebook.com/mdbootstrap
-Twitter: https://twitter.com/MDBootstrap
-Google+: https://plus.google.com/u/0/+Mdbootstrap/posts
-Dribbble: https://dribbble.com/mdbootstrap
+All modification are been to approval until this day.
 
 
-Contact:
-office@mdbootstrap.com
+
